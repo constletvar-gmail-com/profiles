@@ -1,2 +1,2 @@
 proxies:
-  - {name: docker-atrust, server: 127.0.0.1, port: 8888, type: http}
+  - {name: vpn_in_docker, server: 127.0.0.1, port: 8888, type: http}
